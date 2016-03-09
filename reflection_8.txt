@@ -1,0 +1,3 @@
+03-09-16
+
+Today at DevCodeCamp, our time was dedicated solely to working on our dice game. The project is due Thursday morning by 10 am. At the beginning of the day me and Carlos were up to the point where the user is about to make his/her first roll in the game. Now we're at the point where we are finished with the core requirements for the game. Mike challenged us to implement some sort of betting system into game. It doesn't seem that hard to construct I just know its going to take some time. Once again, we are up to the challenge and are ready to put our skills to the test.
