@@ -1,0 +1,3 @@
+03/16/16
+
+Today at DevCodeCamp, things still were not really clicking when it came to C#. Like many others in the class we were just getting used to the many concepts in Java when we switched over to C#. I guess I'll just have to keep practicing.
