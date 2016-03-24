@@ -1,0 +1,3 @@
+03/24/16
+
+Today at devCodeCamp, we started off working on the questions that Dave assigned us two days ago. I tried to work on the Fibonacci question but I struggled with it last night. After our morning scrum, we had to submit what we had for the problems. From there we were to start stubbing out our code for the lemonade stand project. At first, I was a little slow stubbing out my ideas but once I got on a roll, I stayed on it and got majority of my project stubbed out along with some function ideas for the classes and some algorithms for how the day operations would go along with the personality types for the customers and the if statements to go along with them. Overall, I'm feeling good about today and looking forward to tomorrow.

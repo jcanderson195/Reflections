@@ -1,0 +1,3 @@
+03/23/16
+
+Today at devCodeCamp, flourine 2 focused on the problems that Dave assigned us yesterday. I'm completed the user interface problem and the triangle problems after spending all day trying to understand why my code wasn't working. Once I got those problems completed I moved on to the Fibonnaci number sequence problem. Its the end of the day now and I will go home and work on the Fibonnaci question. Hopefully that question goes a lot smoother than the first two problems and takes less time. Overall, a very frustrating day a devCodeCamp.
