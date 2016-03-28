@@ -1,0 +1,3 @@
+03/24/16
+
+Today at DevCodeCamp, I focused mainly on my weather generator and my random temperature generator. I successfully figured that out to go along with the amount of customers that will show up that day because of the temperature. I will probably work on it the project further this week end if I get the chance. Overall, I feel pretty good about the amount of work I got accomplished today at DevCodeCamp.
