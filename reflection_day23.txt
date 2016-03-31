@@ -1,0 +1,3 @@
+03/30/16
+
+Today at DevCodeCamp,our focus was again working on our lemonade stand projects. When it comes to my project, I'm at the point where I can produce the 7 days that are in the week, exactly what day the user is currently on and it displays an empty amount for profit made that day and the current inventory which is also empty. Tomorrow my focus will be to get the minimum requirements for the project done and turn them in on time.
