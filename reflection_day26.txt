@@ -1,0 +1,3 @@
+04/05/16
+
+Today at DevCodeCamp, our focus was working on our Animal shelter projects. I'm making progress on it. I successfully was able to get the donate dog part of my application to work so now I'm going to do the same for my donate cat part of the application and then I'll move on to the adopt a pet part of the application. Overall, a pretty good day at DevCodeCamp.
