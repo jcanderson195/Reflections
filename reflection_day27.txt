@@ -1,0 +1,4 @@
+04/05/16
+
+Today at DevCodeCamp, our focus was working on our animal shelter projects. I made a lot of progress today. I added the adopt functions to the dog and cat classes of my project and I added the Shots status part for the dogs into my project. My next step would be applying what I did today to the dog class to the cat class so that class can be up to date as well. Then I will add in the adopter buying function to both the dog and cat classes. Then I will implement some form of a food system for the dogs and cats. Then my next step, will be adding a profile to the adopter (prompting the user to input their name and then keep track of their name throughout the application).
+Overall, today was a very productive day at DevCodeCamp. On a side note, I got a 100 on my Lemonade Stand project.
