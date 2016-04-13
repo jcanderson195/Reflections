@@ -1,0 +1,3 @@
+04/13/16
+
+Today at devCodeCamp, we focused on the problems Mike assigned us. I got through the Custom iterator, operator overloading, and enums problems. I'm now on the auto dealership project and I'm feeling pretty good about it. I started off today not in the best of moods kind of going off the vibe of yesterday but once lunch passed my mood picked up and I knocked out the overloading operator and enums problems. I then got a good start on my dealership project and will continue to work on it at home so I can make some progress that way. Overall a pretty average/good day at DevCodeCamp.
