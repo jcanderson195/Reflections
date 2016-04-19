@@ -1,0 +1,3 @@
+04/19/16
+
+Today at devcodecamp, the morning's focus was fiinishing the sorting algorithm assignment and starting the chart for data structures. Then after lunch we had a 3 hour lecture on data structures. The lecture wasn't too bad because I took my mom's advice and when it came to lectures, I forced myself to take notes so that I can stay attentive. This worked today because this lecture was pretty long. Probably the longest lecture I've ever had to sit through. I see the value in what we learned today because like Ben said in the lecture, data structures are a common interview question and its great to be able to talk about them and be able to implement them if asked to do so in an interview. Overall, a good day today.
