@@ -1,0 +1,3 @@
+04/28/16
+
+Today at devcodecamp, we focused on our asp.net projects. My sole responsibilty today after scrum was creating our databases for our customers and our drivers. I successfully completed that and will now begin sprucing up our website. Good hard working day at devcodecamp.

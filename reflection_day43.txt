@@ -1,0 +1,3 @@
+04/27/16
+
+Today at devcodecamp, we focused on our asp.net projects. This API stuff is really confusing to me and my group memebers. I started to dive into how asp.net handles the HTML side of the website and I'm going to spruce up our site so that it visually looks good. Another note, Huy did get one of our API to show up on the Services page so thats a plus for us.
