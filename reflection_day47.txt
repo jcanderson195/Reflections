@@ -1,0 +1,3 @@
+05/03/16
+
+Today at devcodecamp we spent the day really diving into SQL and learning it through SQL zoo tutorials. I must say that these tutorials are helpful but very tedious and sometimes hard. We'll probably be working on this stuff tomorrow so we'll see how tomorrow goes.

@@ -1,0 +1,3 @@
+05/02/16
+
+Today at devcodecamp, the morning was spent fixing the bugs in our projects to present. After we presented our first asp.net project. Our presentation went well. Mike was impressed that we were able to implement 3 API's into our project. Pretty good ending to a very hectic project.
